@@ -1,4 +1,4 @@
-# GTA: Vice City — WASM Port
+# GTA: Vice City — WASM Port 
 
 Play GTA: Vice City right in your browser. Nothing to install: the game runs on your own device and keeps working offline.
 
